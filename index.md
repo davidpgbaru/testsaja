@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+So easy to add content without using HTML and css code
+
 You can use the [editor on GitHub](https://github.com/davidpgbaru/testsaja/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
